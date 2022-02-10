@@ -14,6 +14,10 @@ The app is powered by realtime Firebase Backend
 
 
 
+https://user-images.githubusercontent.com/63927839/153390179-23181567-3565-4184-98b8-8356d78d0c44.mp4
+
+
+
 
 
 
