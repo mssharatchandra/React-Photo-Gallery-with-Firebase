@@ -1,4 +1,34 @@
+## This app is created by React JS and Firebase 
+It uses Firestore and Storage for Collection and Database respectively 
+The user can upload high quality images without any size restrictions faced in other social media apps. 
+The app is powered by realtime Firebase Backend 
+
+
+
+![image](https://user-images.githubusercontent.com/63927839/153389947-9b01d1fa-853f-4820-ab60-da45832e47d3.png)
+![image](https://user-images.githubusercontent.com/63927839/153389971-a04a9637-e081-4b07-87b7-e7d2cdf8791a.png)
+![image](https://user-images.githubusercontent.com/63927839/153389896-b08e0a4f-ba20-4ff6-bae9-62fbf754228c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
 
 ## Available Scripts
 
